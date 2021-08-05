@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HardikThummar97
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m @Hardik Thummar
+- 👀 I’m interested in learning new technologies in Web Development
 - 🌱 I’m currently learning MERN stack
 - 💞️ 
 - 📫 
